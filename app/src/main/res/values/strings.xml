@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpamBlocker</string>
+    <string name="title_main">Bloqueador de chamadas desconhecidas</string>
+    <string name="description_main">Este app solicita o papel de filtro de chamadas do Android e bloqueia automaticamente chamadas recebidas de numeros nao salvos.</string>
+    <string name="role_label">Status do filtro de chamadas</string>
+    <string name="role_status_active">Ativo: este app esta definido como filtro de chamadas.</string>
+    <string name="role_status_inactive">Inativo: este app ainda nao foi definido como filtro de chamadas.</string>
+    <string name="button_request_role">Ativar filtro de chamadas</string>
+    <string name="button_open_default_apps">Abrir apps padrao</string>
+    <string name="options_label">Opcoes</string>
+    <string name="switch_block_unknown">Bloquear chamadas de numeros nao salvos</string>
+    <string name="switch_skip_call_log">Nao salvar chamadas bloqueadas no historico</string>
+    <string name="switch_skip_notification">Nao mostrar notificacao de chamada perdida bloqueada</string>
+    <string name="notes_text">Observacoes: funciona em Android 10 ou superior. O sistema entrega ao servico chamadas de numeros fora dos contatos, e o app responde permitindo ou bloqueando a ligacao.</string>
+</resources>
